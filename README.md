@@ -19,6 +19,12 @@ we will implement forward propagation and backward propagation for single layer 
 - [x] Open any python3.6 IDE and execute StepByStepCNN.py
 - [x] Visualize the results of different layers
 
+### Dependencies:
+1. Python 3.6
+2. Numpy
+3. Matplotlib
+4. h5py
+
 **The Repository also has notebook(.ipynb) file, which has detailed explnation of
 project and also implmentation steps, do check it out once**
 
